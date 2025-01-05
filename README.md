@@ -47,9 +47,9 @@ A passionate developer and tech enthusiast currently based in Kenya who loves so
 
 ### 🚀 Recent Projects:
 
-- [**https://github.com/emtee-1023/health-mate**](#): Description of the project.
-- [**Project 2**](#): Description of the project.
-- [**Project 3**](#): Description of the project.
+- [**https://github.com/emtee-1023/health-mate**](#): An online health care system purposed to reduce strain on the health care system.
+- [**https://github.com/mcanthony98/girlsforgenerations**](#): A webiste for a foundation meant to build support for the females in our country.
+- [**https://github.com/A-Lawrie/Flappi-blorb**](#): An introduction to unity 2D game development using C#.
 
 ---
 
