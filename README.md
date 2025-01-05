@@ -1,8 +1,8 @@
-# Hi 👋, I'm A-Lawrie
+# Hi 👋, I'm Lawrie Abuna
 
-A passionate developer and tech enthusiast who loves solving real-world problems through code.
+A passionate developer and tech enthusiast currently based in Kenya who loves solving real-world problems through code.
 
-- 🔭 I’m currently working on **[Project Name](#)**.
+- 🔭 I’m currently working on **https://github.com/emtee-1023/autographix**.
 - 🌱 I’m learning **[Technology/Framework Name]**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **[topics you're skilled in]**.
