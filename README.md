@@ -58,14 +58,3 @@ A passionate developer and tech enthusiast currently based in Kenya who loves so
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=A-Lawrie&theme=react-dark)
 
 ---
-
-### 🎨 Customization:
-
-You can replace the placeholders like `A-Lawrie`, project names, and links with your own. The stats widgets are powered by open-source GitHub repositories like:
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
-- [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-Let me know if you'd like to modify or add specific sections!
