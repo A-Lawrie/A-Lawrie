@@ -5,7 +5,7 @@ A passionate developer and tech enthusiast currently based in Kenya who loves so
 - 🔭 I’m currently working on **https://github.com/emtee-1023/autographix**.
 - 🌱 I’m  tryna look more into flutter **[https://docs.flutter.dev/get-started/install/windows/mobile]**.
 - 📫 How to reach me: **[lawrieabuna@gmail.com]**.
-- ⚡ Fun fact: **[I am a person😂]**.
+- ⚡ Fun fact: **I am a person😂**.
 
 ---
 
