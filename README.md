@@ -2,7 +2,7 @@
 
 A passionate developer and tech enthusiast currently based in Kenya who loves solving real-world problems through code.
 
-- 🔭 I’m currently working on **https://github.com/emtee-1023/autographix**.
+- 🔭 I’m currently working on **https://github.com/A-Lawrie/smbarber**.
 - 🌱 I’m  tryna look more into flutter **https://docs.flutter.dev/get-started/install/windows/mobile**.
 - 📫 How to reach me: **lawrieabuna@gmail.com**.
 - ⚡ Fun fact: **I am a person😂**.
